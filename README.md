@@ -66,7 +66,7 @@ Feel free to check out the full list of builds in the repository.
 If you have any questions, suggestions, or want to discuss a build, feel free to reach out!
 
 
-- Discord: [notanotherAustin](https://discord.gg/yourinvite](https://discord.gg/XxkrM8sTeA)
+- Discord: [notanotherAustin](https://discord.gg/XxkrM8sTeA)
 
 ---
 
