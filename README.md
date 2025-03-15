@@ -61,10 +61,6 @@ Here are some examples of the builds featured in **RiggedUp**:
 
 Feel free to check out the full list of builds in the repository.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions, suggestions, or want to discuss a build, feel free to reach out!
