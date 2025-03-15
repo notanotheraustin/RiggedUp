@@ -70,7 +70,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 If you have any questions, suggestions, or want to discuss a build, feel free to reach out!
 
 
-- Discord: [Your Discord Username]([https://discord.gg/yourinvite](https://discord.gg/XxkrM8sTeA))
+- Discord: [notanotherAustin]([https://discord.gg/yourinvite](https://discord.gg/XxkrM8sTeA))
 
 ---
 
